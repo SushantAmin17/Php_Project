@@ -1,0 +1,103 @@
+.logo{
+    width: 150px;
+    padding:5px;
+}
+
+img {
+    width: 100%
+}
+
+.navbar{
+    text-transform: uppercase;
+    font-size: 30px;
+    letter-spacing: 0.5px;
+    padding:75px;
+    font-family: cursive;
+    
+}
+
+.navbar a{
+    text-decoration: none;
+    color: #6e3636;
+}
+
+.navbar a:hover{
+    color: red;
+    cursor: pointer;
+}
+
+
+.bannerbg{
+    background-image: url('bannerbg.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% auto ;
+    height:524px;
+}
+
+.btext{
+    text-align: center;
+    letter-spacing:8px;
+    padding-top: 150px;
+    padding-bottom: 130px;
+    color: #6e3636;
+    font-style: oblique;
+    font-family: math;
+   
+}
+
+.orderbtn{
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    border-radius: 13px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-top: 22px;
+    border-style: solid;
+    border-color:black;
+}
+
+.btext button:hover{
+    background: border-box;
+    color: #e3194b;
+}
+
+.dtext{
+    text-align: center;
+    padding-top: 33px;
+    margin: auto;
+    padding-bottom: 33px;
+    text-transform: uppercase;
+    font-size: 40px;
+    color: #6e3636;
+    letter-spacing: 0.5px;
+    font-family: auto;
+}
+
+.imgtext{
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 3px;
+}
+
+.imgtext h2{
+    padding-top: 15px;
+    color: #6e3636;
+}
+
+.ordertext{
+    padding-top: 40px;
+    text-transform: capitalize;
+    letter-spacing: 1.5px;
+    font-size: 15px;
+    padding-left:  100px;
+   
+}
+
+
+
+.fdtext{
+    padding: 20px;
+    text-align: center;
+    letter-spacing: 0.5;
+    font-family: auto;
+}
